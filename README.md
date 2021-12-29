@@ -18,3 +18,6 @@ Resources:
 - Sorting population by fitness : https://stackoverflow.com/questions/58973242/deap-sorting-individuals-by-fitness
 - Choosing Mutation and Crossover Ratios for Genetic:  https://www.mdpi.com
 - Pretty Printing Board: https://github.com/brian-rieder/genetic-sudoku/blob/master/sudoku.py
+
+
+Output Example: https://www.youtube.com/watch?v=pWT4RYaDYDI
