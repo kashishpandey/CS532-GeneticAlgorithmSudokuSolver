@@ -1,5 +1,4 @@
 # Sudoku Solver using a Genetic Algorithm 
-Chapman University CS-532 Computational Economics Final Project
 
 - The solver can take in a hard coded board or a randomly generated board 
 - Utilizes Uniform Crossover and Tournament Selection to optimize performance 
